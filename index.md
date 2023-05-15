@@ -8,4 +8,4 @@ Consiste en una aplicación que permite registrar a mascotas a concursos, ademá
 ### 1. [Organizador de fotos](https://github.com/santi0ne/ProyectoEDD.git)
 Aplicación para guardar fotos en diferentes álbumes.
 ### 2. [Juego de Adivina el animal](https://github.com/santi0ne/ProyectoJuegoIIP.git)
-Juego en el que la aplicación adivinará el animal en el que estás pensando.
+Juego en el que la aplicación adivinará el animal en el que estás pensando
