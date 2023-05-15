@@ -6,4 +6,5 @@
 Consiste en una aplicación que permite registrar a mascotas a concursos, además de consultar resultados de concursos anteriores. La app tiene funcionalidades adicionales para registrar nuevas mascotas y nuevos concursos.
 ## Estructura de datos
 ### [Organizador de fotos](https://github.com/santi0ne/ProyectoEDD.git)
+Aplicación para guardar fotos en diferentes álbumes.
 ### [Juego de Adivina el animal](https://github.com/santi0ne/ProyectoJuegoIIP.git)
