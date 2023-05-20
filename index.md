@@ -31,3 +31,8 @@ Juego escrito en Java en el que la aplicación adivinará el animal en el que el
 
 ![Imagen8](https://github.com/gjareval/gjareval/blob/main/Imagen8.png?raw=true)
 
+## Información de contacto
+- Número telefónico: 0984468881
+- Correo electrónico: gjareval@espol.edu.ec
+- [LinkedIn](https://www.linkedin.com/in/guillermo-ar%C3%A9valo-saltos-338381220?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuVm2WFuGTyabDgcQu1KCQw%3D%3D)
+
