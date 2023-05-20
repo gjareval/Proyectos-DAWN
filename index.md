@@ -6,11 +6,11 @@
 #### Estado: Terminado
 Consiste en una aplicación creada en Java que permite registrar a mascotas a concursos, además de consultar resultados de concursos anteriores. La app tiene funcionalidades adicionales para registrar nuevas mascotas y nuevos concursos, todo esto a través de una interfaz gráfica amigable con el usuario.
 
-![Imagen1](https://github.com/gjareval/gjareval/blob/81d76d24da77eb4e1e92ffb1d1aa0aca89cf8d08/Imagen1.png)
+![Imagen1](https://github.com/gjareval/gjareval/blob/main/Imagen1.png?raw=true)
 
-![Imagen2](https://github.com/gjareval/gjareval/blob/81d76d24da77eb4e1e92ffb1d1aa0aca89cf8d08/Imagen2.png)
+![Imagen2](https://github.com/gjareval/gjareval/blob/main/Imagen2.png?raw=true)
 
-![Imagen3](https://github.com/gjareval/gjareval/blob/81d76d24da77eb4e1e92ffb1d1aa0aca89cf8d08/Imagen3.png)
+![Imagen3](https://github.com/gjareval/gjareval/blob/main/Imagen3.png?raw=true)
 
 ## Estructura de datos
 ### 1. [Organizador de fotos](https://github.com/santi0ne/ProyectoEDD.git)
