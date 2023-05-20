@@ -17,17 +17,17 @@ Consiste en una aplicación creada en Java que permite registrar a mascotas a co
 #### Estado: Terminado
 Aplicación en Java para guardar fotos en diferentes álbumes, además de que existe la opción de eliminar las fotos, o moverlas entre diferentes álbumes.
 
-![Imagen4](https://github.com/gjareval/gjareval/blob/9f5d5818e44e4b43d6db3266c73e7f4c62d88dd4/Imagen4.png)
+![Imagen4](https://github.com/gjareval/gjareval/blob/main/Imagen4.png?raw=true)
 
-![Imagen5](https://github.com/gjareval/gjareval/blob/9f5d5818e44e4b43d6db3266c73e7f4c62d88dd4/Imagen5.png)
+![Imagen5](https://github.com/gjareval/gjareval/blob/main/Imagen5.png?raw=true)
 
 ### 2. [Juego de Adivina el animal](https://github.com/santi0ne/ProyectoJuegoIIP.git)
 #### Estado: Terminado
 Juego escrito en Java en el que la aplicación adivinará el animal en el que el usuario pensando, a partir de que realizará una serie de preguntas donde se debe contestar Si o No, y al final el programa arrojará un resultado. 
 
-![Imagen6](https://github.com/gjareval/gjareval/blob/7c1b37b0c01add057de63c39c8b2873ea402375e/Imagen6.png)
+![Imagen6](https://github.com/gjareval/gjareval/blob/main/Imagen6.png?raw=true)
 
-![Imagen7](https://github.com/gjareval/gjareval/blob/7c1b37b0c01add057de63c39c8b2873ea402375e/Imagen7.png)
+![Imagen7](https://github.com/gjareval/gjareval/blob/main/Imagen7.png?raw=true)
 
-![Imagen8](https://github.com/gjareval/gjareval/blob/7c1b37b0c01add057de63c39c8b2873ea402375e/Imagen8.png)
+![Imagen8](https://github.com/gjareval/gjareval/blob/main/Imagen8.png?raw=true)
 
